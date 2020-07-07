@@ -1,0 +1,48 @@
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.main-user{
+  width: 50%;
+  align-self: center;
+  justify-self: center;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+.card-text{
+  text-align: center;
+}
+.followers{
+  display:flex;
+  
+}
+.follow-container{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-evenly;
+  color: #000;
+   
+
+}
+.card{
+  margin-bottom: 1rem;
+  text-align: center;
+}
+button.btn.btn-primary{
+ 
+  margin-left: 0 auto 0;
+  padding-left: 8%;
+}
+
+button a {
+ text-decoration: none;
+ color: #000;
+}
+
+button a:hover{
+  color: antiquewhite;
+  text-decoration: none;
+}
